@@ -1,0 +1,1001 @@
+id,name,skills
+1,Job Seeker 1,"Machine Learning, JavaScript"
+2,Job Seeker 2,"HTML/CSS, Cloud Computing"
+3,Job Seeker 3,"React, Ruby, HTML/CSS"
+4,Job Seeker 4,"Adaptability, Communication, Ruby"
+5,Job Seeker 5,"HTML/CSS, Adaptability, React, Java, SQL"
+6,Job Seeker 6,"Node.js, Ruby"
+7,Job Seeker 7,"SQL, Node.js, Java, Problem Solving, Machine Learning"
+8,Job Seeker 8,HTML/CSS
+9,Job Seeker 9,"JavaScript, Machine Learning, React, Ruby, Cloud Computing"
+10,Job Seeker 10,
+11,Job Seeker 11,"React, Communication, Problem Solving, Java"
+12,Job Seeker 12,"SQL, Machine Learning, Node.js"
+13,Job Seeker 13,"JavaScript, Node.js, Adaptability"
+14,Job Seeker 14,"Teamwork, SQL, Java, React"
+15,Job Seeker 15,Teamwork
+16,Job Seeker 16,"Problem Solving, React, Machine Learning"
+17,Job Seeker 17,"HTML/CSS, Node.js, Problem Solving"
+18,Job Seeker 18,Cloud Computing
+19,Job Seeker 19,
+20,Job Seeker 20,"Teamwork, Communication, SQL, Problem Solving"
+21,Job Seeker 21,Adaptability
+22,Job Seeker 22,
+23,Job Seeker 23,Adaptability
+24,Job Seeker 24,"Java, Teamwork"
+25,Job Seeker 25,"Teamwork, JavaScript, HTML/CSS"
+26,Job Seeker 26,"JavaScript, Teamwork, HTML/CSS"
+27,Job Seeker 27,"Machine Learning, Problem Solving, JavaScript, Ruby, React"
+28,Job Seeker 28,"Adaptability, SQL"
+29,Job Seeker 29,
+30,Job Seeker 30,"HTML/CSS, JavaScript, Machine Learning"
+31,Job Seeker 31,"React, Ruby"
+32,Job Seeker 32,Cloud Computing
+33,Job Seeker 33,SQL
+34,Job Seeker 34,"Node.js, HTML/CSS, Ruby"
+35,Job Seeker 35,
+36,Job Seeker 36,
+37,Job Seeker 37,"Adaptability, Teamwork, Problem Solving, Node.js, React"
+38,Job Seeker 38,"Teamwork, SQL, Adaptability, Ruby"
+39,Job Seeker 39,JavaScript
+40,Job Seeker 40,"Python, Ruby, Adaptability"
+41,Job Seeker 41,"JavaScript, SQL, Machine Learning, HTML/CSS, Adaptability"
+42,Job Seeker 42,"HTML/CSS, React, JavaScript"
+43,Job Seeker 43,
+44,Job Seeker 44,"Teamwork, Machine Learning, Ruby, Adaptability, Node.js"
+45,Job Seeker 45,"HTML/CSS, Java"
+46,Job Seeker 46,"Python, Communication"
+47,Job Seeker 47,
+48,Job Seeker 48,"HTML/CSS, SQL, Communication"
+49,Job Seeker 49,
+50,Job Seeker 50,Node.js
+51,Job Seeker 51,
+52,Job Seeker 52,Java
+53,Job Seeker 53,
+54,Job Seeker 54,Java
+55,Job Seeker 55,"Communication, HTML/CSS"
+56,Job Seeker 56,"Teamwork, Machine Learning, Cloud Computing, Problem Solving"
+57,Job Seeker 57,"SQL, Teamwork, Cloud Computing, Ruby"
+58,Job Seeker 58,"SQL, Machine Learning, Communication, Adaptability"
+59,Job Seeker 59,Node.js
+60,Job Seeker 60,
+61,Job Seeker 61,"Machine Learning, JavaScript, Adaptability, React"
+62,Job Seeker 62,
+63,Job Seeker 63,JavaScript
+64,Job Seeker 64,"Ruby, React"
+65,Job Seeker 65,"Cloud Computing, SQL, JavaScript, Teamwork"
+66,Job Seeker 66,"SQL, Java, JavaScript, Machine Learning, Cloud Computing"
+67,Job Seeker 67,"Teamwork, Problem Solving"
+68,Job Seeker 68,"HTML/CSS, Cloud Computing"
+69,Job Seeker 69,
+70,Job Seeker 70,"Problem Solving, Teamwork, Communication"
+71,Job Seeker 71,Java
+72,Job Seeker 72,"Cloud Computing, SQL"
+73,Job Seeker 73,"Java, JavaScript, SQL, Problem Solving, Ruby"
+74,Job Seeker 74,Adaptability
+75,Job Seeker 75,"Problem Solving, React, Machine Learning, SQL"
+76,Job Seeker 76,"Python, Problem Solving, Node.js, Ruby, SQL"
+77,Job Seeker 77,
+78,Job Seeker 78,Adaptability
+79,Job Seeker 79,"Problem Solving, React"
+80,Job Seeker 80,"Communication, Cloud Computing, Adaptability, Ruby, SQL"
+81,Job Seeker 81,"Teamwork, Node.js, JavaScript, SQL"
+82,Job Seeker 82,"Communication, HTML/CSS"
+83,Job Seeker 83,"Cloud Computing, Problem Solving, React, Machine Learning, Teamwork"
+84,Job Seeker 84,"Node.js, Problem Solving"
+85,Job Seeker 85,"React, Ruby, Java, Cloud Computing"
+86,Job Seeker 86,JavaScript
+87,Job Seeker 87,"Node.js, Machine Learning"
+88,Job Seeker 88,Ruby
+89,Job Seeker 89,"SQL, Communication, Problem Solving"
+90,Job Seeker 90,Node.js
+91,Job Seeker 91,"React, Node.js, SQL, Cloud Computing, Problem Solving"
+92,Job Seeker 92,"Java, Ruby"
+93,Job Seeker 93,
+94,Job Seeker 94,"Communication, Python, Teamwork"
+95,Job Seeker 95,"Machine Learning, React, Python, Java"
+96,Job Seeker 96,"Problem Solving, JavaScript, Java, Node.js, Adaptability"
+97,Job Seeker 97,"Python, Ruby, React, Adaptability"
+98,Job Seeker 98,"React, Java"
+99,Job Seeker 99,"HTML/CSS, Communication, Cloud Computing, Java"
+100,Job Seeker 100,"SQL, HTML/CSS, Communication"
+101,Job Seeker 101,Java
+102,Job Seeker 102,"Python, Adaptability"
+103,Job Seeker 103,"Java, Cloud Computing"
+104,Job Seeker 104,"SQL, Ruby, Node.js, Java, Cloud Computing"
+105,Job Seeker 105,Adaptability
+106,Job Seeker 106,"Communication, Teamwork, Python"
+107,Job Seeker 107,"SQL, React, Ruby, Cloud Computing"
+108,Job Seeker 108,"Machine Learning, SQL, Node.js, Problem Solving, Ruby"
+109,Job Seeker 109,"Node.js, Cloud Computing"
+110,Job Seeker 110,"HTML/CSS, Node.js, Cloud Computing"
+111,Job Seeker 111,"Java, Node.js, Problem Solving, Adaptability"
+112,Job Seeker 112,"SQL, Problem Solving"
+113,Job Seeker 113,"Python, Teamwork"
+114,Job Seeker 114,"React, Python, SQL, Java, Communication"
+115,Job Seeker 115,SQL
+116,Job Seeker 116,"Teamwork, Java, Machine Learning, SQL, Node.js"
+117,Job Seeker 117,"Java, Python, Problem Solving, Node.js"
+118,Job Seeker 118,
+119,Job Seeker 119,"Cloud Computing, Node.js, Communication, SQL, Machine Learning"
+120,Job Seeker 120,
+121,Job Seeker 121,"Node.js, SQL, Problem Solving, Adaptability"
+122,Job Seeker 122,"Teamwork, React, Cloud Computing, Adaptability, Python"
+123,Job Seeker 123,
+124,Job Seeker 124,
+125,Job Seeker 125,HTML/CSS
+126,Job Seeker 126,"Python, Cloud Computing"
+127,Job Seeker 127,
+128,Job Seeker 128,"HTML/CSS, JavaScript, Cloud Computing"
+129,Job Seeker 129,"Node.js, Python, Teamwork, Ruby"
+130,Job Seeker 130,
+131,Job Seeker 131,
+132,Job Seeker 132,"JavaScript, React"
+133,Job Seeker 133,"Java, HTML/CSS"
+134,Job Seeker 134,"Adaptability, Problem Solving, Machine Learning, Communication, Node.js"
+135,Job Seeker 135,"Communication, Cloud Computing, Teamwork"
+136,Job Seeker 136,
+137,Job Seeker 137,
+138,Job Seeker 138,"React, Java, HTML/CSS, Node.js"
+139,Job Seeker 139,"Machine Learning, SQL, JavaScript"
+140,Job Seeker 140,"React, SQL, Problem Solving, JavaScript"
+141,Job Seeker 141,"Ruby, Problem Solving, Teamwork, HTML/CSS, SQL"
+142,Job Seeker 142,"Problem Solving, Machine Learning, Teamwork"
+143,Job Seeker 143,"Communication, SQL"
+144,Job Seeker 144,Ruby
+145,Job Seeker 145,"Adaptability, Teamwork"
+146,Job Seeker 146,
+147,Job Seeker 147,Ruby
+148,Job Seeker 148,"Communication, Java, Node.js, Adaptability"
+149,Job Seeker 149,"HTML/CSS, Problem Solving"
+150,Job Seeker 150,"Python, HTML/CSS"
+151,Job Seeker 151,"Machine Learning, JavaScript, React, HTML/CSS, Python"
+152,Job Seeker 152,"Cloud Computing, Node.js, Adaptability, Java"
+153,Job Seeker 153,
+154,Job Seeker 154,"Teamwork, JavaScript, HTML/CSS, Problem Solving, Adaptability"
+155,Job Seeker 155,"Communication, JavaScript, React"
+156,Job Seeker 156,
+157,Job Seeker 157,
+158,Job Seeker 158,Node.js
+159,Job Seeker 159,"JavaScript, Adaptability"
+160,Job Seeker 160,"Java, Teamwork, Communication, Adaptability, React"
+161,Job Seeker 161,
+162,Job Seeker 162,Cloud Computing
+163,Job Seeker 163,"Python, Adaptability"
+164,Job Seeker 164,"Adaptability, Java, Cloud Computing, Python"
+165,Job Seeker 165,"Problem Solving, React, Ruby"
+166,Job Seeker 166,
+167,Job Seeker 167,Cloud Computing
+168,Job Seeker 168,
+169,Job Seeker 169,"Adaptability, Python, Java, Problem Solving, React"
+170,Job Seeker 170,Adaptability
+171,Job Seeker 171,Ruby
+172,Job Seeker 172,"HTML/CSS, Python, Cloud Computing, Machine Learning"
+173,Job Seeker 173,"React, Ruby, Cloud Computing"
+174,Job Seeker 174,"Problem Solving, SQL, HTML/CSS, Java"
+175,Job Seeker 175,"Adaptability, JavaScript, Ruby, Node.js, Cloud Computing"
+176,Job Seeker 176,"Teamwork, React, Node.js, Adaptability"
+177,Job Seeker 177,"React, HTML/CSS, JavaScript, Communication, Node.js"
+178,Job Seeker 178,"SQL, Cloud Computing, Ruby, React"
+179,Job Seeker 179,"HTML/CSS, Problem Solving, Communication, Node.js"
+180,Job Seeker 180,React
+181,Job Seeker 181,Machine Learning
+182,Job Seeker 182,"Node.js, Java, Problem Solving, Adaptability"
+183,Job Seeker 183,"Problem Solving, Adaptability, SQL"
+184,Job Seeker 184,"Machine Learning, Node.js"
+185,Job Seeker 185,"Communication, SQL, React, Node.js"
+186,Job Seeker 186,"Java, Communication"
+187,Job Seeker 187,"JavaScript, Cloud Computing, Teamwork"
+188,Job Seeker 188,"Machine Learning, Java, Teamwork, HTML/CSS, SQL"
+189,Job Seeker 189,"Python, JavaScript"
+190,Job Seeker 190,"Java, Teamwork, React, Node.js, Python"
+191,Job Seeker 191,"Problem Solving, Java, Adaptability, JavaScript"
+192,Job Seeker 192,"SQL, Java, Python, HTML/CSS"
+193,Job Seeker 193,"Problem Solving, Python, Teamwork"
+194,Job Seeker 194,"Machine Learning, SQL, Ruby"
+195,Job Seeker 195,Node.js
+196,Job Seeker 196,"HTML/CSS, Node.js, Ruby, Machine Learning, Adaptability"
+197,Job Seeker 197,"Machine Learning, Java, React"
+198,Job Seeker 198,"Adaptability, Python"
+199,Job Seeker 199,Machine Learning
+200,Job Seeker 200,"Cloud Computing, SQL, React"
+201,Job Seeker 201,"Adaptability, Cloud Computing, Ruby"
+202,Job Seeker 202,Cloud Computing
+203,Job Seeker 203,Machine Learning
+204,Job Seeker 204,Ruby
+205,Job Seeker 205,"Cloud Computing, Ruby, Adaptability, HTML/CSS, Java"
+206,Job Seeker 206,"Machine Learning, Problem Solving"
+207,Job Seeker 207,"Communication, Adaptability"
+208,Job Seeker 208,"Teamwork, Java, Adaptability, React"
+209,Job Seeker 209,"Cloud Computing, JavaScript, Adaptability, Machine Learning, Problem Solving"
+210,Job Seeker 210,"Ruby, Java"
+211,Job Seeker 211,"React, Ruby, Adaptability"
+212,Job Seeker 212,
+213,Job Seeker 213,"Communication, Ruby, HTML/CSS, Machine Learning, Cloud Computing"
+214,Job Seeker 214,Adaptability
+215,Job Seeker 215,"SQL, Java, Cloud Computing, JavaScript, Communication"
+216,Job Seeker 216,"Teamwork, Adaptability"
+217,Job Seeker 217,"Teamwork, SQL"
+218,Job Seeker 218,
+219,Job Seeker 219,"React, Node.js"
+220,Job Seeker 220,"Problem Solving, Ruby, React, Python, Java"
+221,Job Seeker 221,"SQL, Teamwork, React, Python, Ruby"
+222,Job Seeker 222,"Node.js, Adaptability"
+223,Job Seeker 223,"HTML/CSS, Problem Solving, Adaptability"
+224,Job Seeker 224,Cloud Computing
+225,Job Seeker 225,"Cloud Computing, SQL, Communication, Python, JavaScript"
+226,Job Seeker 226,"JavaScript, Python, Cloud Computing, SQL"
+227,Job Seeker 227,
+228,Job Seeker 228,
+229,Job Seeker 229,"Teamwork, Ruby"
+230,Job Seeker 230,Communication
+231,Job Seeker 231,"Ruby, SQL"
+232,Job Seeker 232,"Adaptability, Node.js, Ruby"
+233,Job Seeker 233,"Node.js, Communication, JavaScript"
+234,Job Seeker 234,"Python, Adaptability, Teamwork, Node.js"
+235,Job Seeker 235,
+236,Job Seeker 236,"HTML/CSS, React, Teamwork"
+237,Job Seeker 237,"Java, SQL, React"
+238,Job Seeker 238,
+239,Job Seeker 239,"SQL, Machine Learning, Problem Solving, Node.js"
+240,Job Seeker 240,"Ruby, Cloud Computing, JavaScript, HTML/CSS"
+241,Job Seeker 241,"Ruby, Teamwork, React"
+242,Job Seeker 242,"Teamwork, Problem Solving, JavaScript, React, Ruby"
+243,Job Seeker 243,Communication
+244,Job Seeker 244,"Communication, JavaScript, Ruby, SQL"
+245,Job Seeker 245,"Cloud Computing, Machine Learning, Ruby, Python"
+246,Job Seeker 246,"Cloud Computing, Adaptability, JavaScript, Machine Learning"
+247,Job Seeker 247,"SQL, Problem Solving, Node.js, React, JavaScript"
+248,Job Seeker 248,Cloud Computing
+249,Job Seeker 249,"Java, HTML/CSS, Adaptability, Node.js"
+250,Job Seeker 250,"Cloud Computing, React, Machine Learning, HTML/CSS"
+251,Job Seeker 251,"Node.js, Ruby, Adaptability"
+252,Job Seeker 252,"Java, React, JavaScript, Node.js"
+253,Job Seeker 253,"Adaptability, Teamwork, SQL, Cloud Computing"
+254,Job Seeker 254,
+255,Job Seeker 255,"Problem Solving, HTML/CSS, Node.js, Ruby, Adaptability"
+256,Job Seeker 256,"Problem Solving, Node.js, Communication, Python, SQL"
+257,Job Seeker 257,
+258,Job Seeker 258,"Ruby, Python"
+259,Job Seeker 259,Communication
+260,Job Seeker 260,
+261,Job Seeker 261,"Node.js, Machine Learning, Ruby, React, HTML/CSS"
+262,Job Seeker 262,"Cloud Computing, Ruby"
+263,Job Seeker 263,
+264,Job Seeker 264,
+265,Job Seeker 265,
+266,Job Seeker 266,Java
+267,Job Seeker 267,"Java, Adaptability, SQL"
+268,Job Seeker 268,"Python, Communication, Ruby, Problem Solving"
+269,Job Seeker 269,"Adaptability, Machine Learning, Java, Communication, Node.js"
+270,Job Seeker 270,"Python, JavaScript, Java, Problem Solving"
+271,Job Seeker 271,"React, Ruby, JavaScript"
+272,Job Seeker 272,"Problem Solving, Ruby"
+273,Job Seeker 273,
+274,Job Seeker 274,
+275,Job Seeker 275,"Node.js, SQL, Cloud Computing, JavaScript, Adaptability"
+276,Job Seeker 276,"Communication, SQL, Node.js"
+277,Job Seeker 277,
+278,Job Seeker 278,"Machine Learning, Cloud Computing, Adaptability"
+279,Job Seeker 279,
+280,Job Seeker 280,"Teamwork, Java, Machine Learning"
+281,Job Seeker 281,"Cloud Computing, React, Communication"
+282,Job Seeker 282,"React, Ruby, Problem Solving, Machine Learning, SQL"
+283,Job Seeker 283,"Machine Learning, Python, SQL, Adaptability"
+284,Job Seeker 284,
+285,Job Seeker 285,
+286,Job Seeker 286,"Node.js, Machine Learning, Cloud Computing, Java, Python"
+287,Job Seeker 287,"Communication, Adaptability, Cloud Computing"
+288,Job Seeker 288,Ruby
+289,Job Seeker 289,Ruby
+290,Job Seeker 290,"Communication, Python, Ruby"
+291,Job Seeker 291,"Adaptability, JavaScript, Node.js, Cloud Computing"
+292,Job Seeker 292,"Adaptability, Communication, JavaScript"
+293,Job Seeker 293,"Node.js, Ruby, React"
+294,Job Seeker 294,"JavaScript, Node.js"
+295,Job Seeker 295,Python
+296,Job Seeker 296,"Cloud Computing, Problem Solving, Teamwork"
+297,Job Seeker 297,"Java, SQL, Node.js, Adaptability, Communication"
+298,Job Seeker 298,Problem Solving
+299,Job Seeker 299,"Ruby, Adaptability, Communication, Python, Cloud Computing"
+300,Job Seeker 300,
+301,Job Seeker 301,Teamwork
+302,Job Seeker 302,
+303,Job Seeker 303,"Adaptability, Python"
+304,Job Seeker 304,"Teamwork, Machine Learning, HTML/CSS"
+305,Job Seeker 305,
+306,Job Seeker 306,"Adaptability, JavaScript, Problem Solving, Machine Learning, Cloud Computing"
+307,Job Seeker 307,
+308,Job Seeker 308,"Cloud Computing, Machine Learning, Python, JavaScript"
+309,Job Seeker 309,
+310,Job Seeker 310,"Teamwork, Problem Solving, Adaptability, Node.js, Communication"
+311,Job Seeker 311,"Java, Communication"
+312,Job Seeker 312,
+313,Job Seeker 313,"Problem Solving, Ruby"
+314,Job Seeker 314,
+315,Job Seeker 315,"Teamwork, Problem Solving"
+316,Job Seeker 316,"Node.js, Python"
+317,Job Seeker 317,"Problem Solving, Machine Learning, Adaptability"
+318,Job Seeker 318,"Problem Solving, Node.js, Ruby, Teamwork, Machine Learning"
+319,Job Seeker 319,Communication
+320,Job Seeker 320,"Ruby, Machine Learning, Adaptability"
+321,Job Seeker 321,"Java, Teamwork, Problem Solving"
+322,Job Seeker 322,"Teamwork, Ruby, SQL, Problem Solving"
+323,Job Seeker 323,"Teamwork, Adaptability, Node.js, Machine Learning, Java"
+324,Job Seeker 324,"HTML/CSS, Adaptability"
+325,Job Seeker 325,"React, Ruby, JavaScript"
+326,Job Seeker 326,"React, Python, Communication, Node.js, Ruby"
+327,Job Seeker 327,"Teamwork, Machine Learning, Communication, React"
+328,Job Seeker 328,"SQL, Cloud Computing, Machine Learning"
+329,Job Seeker 329,"Adaptability, Python, Java"
+330,Job Seeker 330,"Teamwork, Communication, Node.js, Cloud Computing, JavaScript"
+331,Job Seeker 331,
+332,Job Seeker 332,"Cloud Computing, Machine Learning, Python"
+333,Job Seeker 333,"Python, JavaScript, SQL, Communication"
+334,Job Seeker 334,"SQL, JavaScript, Communication, Java"
+335,Job Seeker 335,HTML/CSS
+336,Job Seeker 336,"Java, Machine Learning, Node.js, React, Python"
+337,Job Seeker 337,JavaScript
+338,Job Seeker 338,"React, Communication, Python, HTML/CSS"
+339,Job Seeker 339,
+340,Job Seeker 340,HTML/CSS
+341,Job Seeker 341,"React, Communication"
+342,Job Seeker 342,"Node.js, Python"
+343,Job Seeker 343,Machine Learning
+344,Job Seeker 344,"JavaScript, SQL"
+345,Job Seeker 345,"Node.js, Ruby"
+346,Job Seeker 346,"Machine Learning, React"
+347,Job Seeker 347,"Cloud Computing, Node.js, SQL, Python, Machine Learning"
+348,Job Seeker 348,"Problem Solving, Communication"
+349,Job Seeker 349,"SQL, Adaptability"
+350,Job Seeker 350,Adaptability
+351,Job Seeker 351,Machine Learning
+352,Job Seeker 352,"Machine Learning, HTML/CSS, Python, Node.js"
+353,Job Seeker 353,"Ruby, Python, Adaptability"
+354,Job Seeker 354,"Teamwork, Node.js, Communication"
+355,Job Seeker 355,"Teamwork, JavaScript, SQL"
+356,Job Seeker 356,"Node.js, Ruby, Teamwork, JavaScript"
+357,Job Seeker 357,"Adaptability, Communication, Problem Solving"
+358,Job Seeker 358,
+359,Job Seeker 359,"Java, JavaScript"
+360,Job Seeker 360,Teamwork
+361,Job Seeker 361,"Adaptability, Node.js"
+362,Job Seeker 362,"Problem Solving, JavaScript, Node.js, Adaptability"
+363,Job Seeker 363,"Communication, SQL"
+364,Job Seeker 364,"Adaptability, Python, Problem Solving"
+365,Job Seeker 365,Cloud Computing
+366,Job Seeker 366,"Cloud Computing, Adaptability, Problem Solving, SQL, Teamwork"
+367,Job Seeker 367,HTML/CSS
+368,Job Seeker 368,"HTML/CSS, Problem Solving, JavaScript"
+369,Job Seeker 369,"React, SQL, JavaScript, Ruby, HTML/CSS"
+370,Job Seeker 370,"HTML/CSS, JavaScript"
+371,Job Seeker 371,"Python, Java, React, JavaScript, Communication"
+372,Job Seeker 372,
+373,Job Seeker 373,"React, Python, SQL, JavaScript, Java"
+374,Job Seeker 374,"Node.js, Python"
+375,Job Seeker 375,"React, Teamwork, JavaScript"
+376,Job Seeker 376,"Communication, Adaptability"
+377,Job Seeker 377,"Machine Learning, Adaptability, Problem Solving"
+378,Job Seeker 378,
+379,Job Seeker 379,"Cloud Computing, Problem Solving, Adaptability"
+380,Job Seeker 380,Cloud Computing
+381,Job Seeker 381,"SQL, Communication"
+382,Job Seeker 382,"Python, Ruby, React"
+383,Job Seeker 383,"Python, Problem Solving"
+384,Job Seeker 384,
+385,Job Seeker 385,"Python, React, Teamwork, Problem Solving"
+386,Job Seeker 386,SQL
+387,Job Seeker 387,Machine Learning
+388,Job Seeker 388,"Java, React"
+389,Job Seeker 389,"Python, Cloud Computing, Machine Learning, JavaScript"
+390,Job Seeker 390,"Python, Node.js, Teamwork, Java"
+391,Job Seeker 391,"HTML/CSS, Adaptability"
+392,Job Seeker 392,"Java, Adaptability, HTML/CSS, Python"
+393,Job Seeker 393,"Adaptability, Problem Solving, Python, HTML/CSS, Teamwork"
+394,Job Seeker 394,"Python, JavaScript, Problem Solving, HTML/CSS"
+395,Job Seeker 395,"Adaptability, JavaScript"
+396,Job Seeker 396,"Problem Solving, Communication, SQL"
+397,Job Seeker 397,"Problem Solving, Python, SQL"
+398,Job Seeker 398,Java
+399,Job Seeker 399,"Adaptability, SQL, HTML/CSS, Cloud Computing"
+400,Job Seeker 400,"Cloud Computing, Node.js, JavaScript"
+401,Job Seeker 401,Ruby
+402,Job Seeker 402,
+403,Job Seeker 403,"React, HTML/CSS, Adaptability, Python, Machine Learning"
+404,Job Seeker 404,
+405,Job Seeker 405,Problem Solving
+406,Job Seeker 406,"React, Machine Learning, Java"
+407,Job Seeker 407,"Node.js, Teamwork"
+408,Job Seeker 408,"Teamwork, Java, Python"
+409,Job Seeker 409,SQL
+410,Job Seeker 410,"Problem Solving, Teamwork"
+411,Job Seeker 411,SQL
+412,Job Seeker 412,"SQL, Machine Learning"
+413,Job Seeker 413,"Node.js, Problem Solving, Communication"
+414,Job Seeker 414,
+415,Job Seeker 415,"Python, SQL, Adaptability"
+416,Job Seeker 416,"Communication, Python"
+417,Job Seeker 417,"JavaScript, Python"
+418,Job Seeker 418,"Node.js, SQL, Java, Python, React"
+419,Job Seeker 419,"Java, Cloud Computing, JavaScript"
+420,Job Seeker 420,
+421,Job Seeker 421,
+422,Job Seeker 422,"Ruby, React"
+423,Job Seeker 423,
+424,Job Seeker 424,HTML/CSS
+425,Job Seeker 425,
+426,Job Seeker 426,"Adaptability, React, Java, Communication, Teamwork"
+427,Job Seeker 427,"Communication, SQL, Problem Solving"
+428,Job Seeker 428,"Cloud Computing, JavaScript, Adaptability, Python, Java"
+429,Job Seeker 429,"JavaScript, Communication, Machine Learning, Adaptability, Node.js"
+430,Job Seeker 430,"React, Teamwork, Adaptability, Ruby"
+431,Job Seeker 431,"JavaScript, Adaptability, Python, Machine Learning, React"
+432,Job Seeker 432,"Problem Solving, Ruby, Communication, SQL"
+433,Job Seeker 433,Ruby
+434,Job Seeker 434,HTML/CSS
+435,Job Seeker 435,"Cloud Computing, Python, HTML/CSS, Problem Solving"
+436,Job Seeker 436,
+437,Job Seeker 437,
+438,Job Seeker 438,"Machine Learning, SQL, Teamwork"
+439,Job Seeker 439,"Adaptability, Communication"
+440,Job Seeker 440,Adaptability
+441,Job Seeker 441,"JavaScript, SQL, Problem Solving, HTML/CSS"
+442,Job Seeker 442,
+443,Job Seeker 443,Adaptability
+444,Job Seeker 444,"JavaScript, HTML/CSS"
+445,Job Seeker 445,"Cloud Computing, React, Node.js, Machine Learning, Adaptability"
+446,Job Seeker 446,"Communication, Java"
+447,Job Seeker 447,
+448,Job Seeker 448,Communication
+449,Job Seeker 449,"Java, Python, Ruby"
+450,Job Seeker 450,Problem Solving
+451,Job Seeker 451,"HTML/CSS, Cloud Computing, Java, SQL"
+452,Job Seeker 452,
+453,Job Seeker 453,"React, JavaScript, Teamwork, Cloud Computing"
+454,Job Seeker 454,"Adaptability, Machine Learning, React, Ruby"
+455,Job Seeker 455,Ruby
+456,Job Seeker 456,"Node.js, React, Machine Learning"
+457,Job Seeker 457,"Python, Machine Learning, Communication"
+458,Job Seeker 458,"React, SQL"
+459,Job Seeker 459,"SQL, JavaScript"
+460,Job Seeker 460,
+461,Job Seeker 461,"Python, JavaScript"
+462,Job Seeker 462,"Node.js, Ruby, Python"
+463,Job Seeker 463,React
+464,Job Seeker 464,Java
+465,Job Seeker 465,"Problem Solving, SQL, Communication, HTML/CSS, Teamwork"
+466,Job Seeker 466,"JavaScript, Python, Problem Solving"
+467,Job Seeker 467,"Cloud Computing, Machine Learning, Python"
+468,Job Seeker 468,"Adaptability, Java"
+469,Job Seeker 469,"Machine Learning, Teamwork, Adaptability"
+470,Job Seeker 470,"Ruby, JavaScript"
+471,Job Seeker 471,Machine Learning
+472,Job Seeker 472,"HTML/CSS, SQL, Python, Teamwork"
+473,Job Seeker 473,
+474,Job Seeker 474,Python
+475,Job Seeker 475,"HTML/CSS, Python, Adaptability, Node.js, Communication"
+476,Job Seeker 476,
+477,Job Seeker 477,"Teamwork, React, Ruby"
+478,Job Seeker 478,"React, Teamwork, Problem Solving"
+479,Job Seeker 479,"Cloud Computing, Node.js, SQL, Adaptability, HTML/CSS"
+480,Job Seeker 480,"Teamwork, Node.js"
+481,Job Seeker 481,"Ruby, React"
+482,Job Seeker 482,
+483,Job Seeker 483,"React, JavaScript, SQL, Teamwork"
+484,Job Seeker 484,"Machine Learning, Communication"
+485,Job Seeker 485,"Python, HTML/CSS, Ruby, Cloud Computing, Teamwork"
+486,Job Seeker 486,"Cloud Computing, Problem Solving, HTML/CSS, Python, React"
+487,Job Seeker 487,"HTML/CSS, JavaScript, Adaptability, Teamwork, Java"
+488,Job Seeker 488,
+489,Job Seeker 489,
+490,Job Seeker 490,
+491,Job Seeker 491,"Java, Cloud Computing, React, Node.js, Machine Learning"
+492,Job Seeker 492,"Communication, Node.js"
+493,Job Seeker 493,"HTML/CSS, Problem Solving, Java, Machine Learning"
+494,Job Seeker 494,"React, Adaptability, Teamwork"
+495,Job Seeker 495,
+496,Job Seeker 496,"Machine Learning, React, Node.js"
+497,Job Seeker 497,"Cloud Computing, Teamwork, Node.js, Machine Learning"
+498,Job Seeker 498,Ruby
+499,Job Seeker 499,"React, SQL, Cloud Computing, HTML/CSS, Python"
+500,Job Seeker 500,"Java, JavaScript"
+501,Job Seeker 501,SQL
+502,Job Seeker 502,"HTML/CSS, React, Adaptability, Problem Solving"
+503,Job Seeker 503,"Node.js, Machine Learning, HTML/CSS, Communication, Python"
+504,Job Seeker 504,"Java, Adaptability"
+505,Job Seeker 505,"Adaptability, Communication"
+506,Job Seeker 506,"Communication, React, Python, Node.js, JavaScript"
+507,Job Seeker 507,"Problem Solving, Node.js, Teamwork"
+508,Job Seeker 508,React
+509,Job Seeker 509,"Ruby, Problem Solving, Communication, SQL"
+510,Job Seeker 510,"Python, Machine Learning, Adaptability, Java"
+511,Job Seeker 511,"HTML/CSS, Node.js, JavaScript, Problem Solving, Machine Learning"
+512,Job Seeker 512,SQL
+513,Job Seeker 513,"Java, SQL, Machine Learning"
+514,Job Seeker 514,"Java, Teamwork, HTML/CSS"
+515,Job Seeker 515,
+516,Job Seeker 516,
+517,Job Seeker 517,"JavaScript, SQL, Adaptability"
+518,Job Seeker 518,Adaptability
+519,Job Seeker 519,"Teamwork, Python, Node.js, React"
+520,Job Seeker 520,"Communication, Python, Teamwork"
+521,Job Seeker 521,"Java, HTML/CSS, Teamwork, Machine Learning, Python"
+522,Job Seeker 522,
+523,Job Seeker 523,"Cloud Computing, React, JavaScript, Teamwork, Adaptability"
+524,Job Seeker 524,Communication
+525,Job Seeker 525,
+526,Job Seeker 526,"Ruby, Python, Machine Learning, Node.js"
+527,Job Seeker 527,"Cloud Computing, SQL, Adaptability, Java, Problem Solving"
+528,Job Seeker 528,JavaScript
+529,Job Seeker 529,"Communication, HTML/CSS, Python, Cloud Computing"
+530,Job Seeker 530,
+531,Job Seeker 531,"Ruby, React, JavaScript, Teamwork, Machine Learning"
+532,Job Seeker 532,"React, JavaScript, Node.js, Problem Solving"
+533,Job Seeker 533,"React, Communication, JavaScript, Cloud Computing"
+534,Job Seeker 534,
+535,Job Seeker 535,
+536,Job Seeker 536,
+537,Job Seeker 537,"Python, Machine Learning"
+538,Job Seeker 538,
+539,Job Seeker 539,"SQL, Teamwork, Communication, Python"
+540,Job Seeker 540,"SQL, Node.js, React"
+541,Job Seeker 541,"Machine Learning, React, Node.js, Adaptability"
+542,Job Seeker 542,
+543,Job Seeker 543,"Node.js, JavaScript"
+544,Job Seeker 544,Adaptability
+545,Job Seeker 545,"Teamwork, Problem Solving, SQL"
+546,Job Seeker 546,"JavaScript, Adaptability, Teamwork"
+547,Job Seeker 547,"Teamwork, Python, Communication"
+548,Job Seeker 548,
+549,Job Seeker 549,Python
+550,Job Seeker 550,"Cloud Computing, Problem Solving, SQL, Teamwork, Python"
+551,Job Seeker 551,"Communication, Teamwork, Cloud Computing, Machine Learning"
+552,Job Seeker 552,
+553,Job Seeker 553,
+554,Job Seeker 554,"JavaScript, Ruby, HTML/CSS, Cloud Computing, Node.js"
+555,Job Seeker 555,Cloud Computing
+556,Job Seeker 556,HTML/CSS
+557,Job Seeker 557,"Cloud Computing, HTML/CSS, JavaScript, Python"
+558,Job Seeker 558,"Python, React, Teamwork"
+559,Job Seeker 559,
+560,Job Seeker 560,"Teamwork, Machine Learning, Python, Ruby, Adaptability"
+561,Job Seeker 561,"SQL, Communication, Ruby, Problem Solving"
+562,Job Seeker 562,"Python, HTML/CSS"
+563,Job Seeker 563,"React, Ruby, Node.js, Java, Adaptability"
+564,Job Seeker 564,
+565,Job Seeker 565,"JavaScript, React, HTML/CSS, Node.js, Python"
+566,Job Seeker 566,"Problem Solving, Adaptability, Cloud Computing, HTML/CSS, Machine Learning"
+567,Job Seeker 567,"SQL, JavaScript"
+568,Job Seeker 568,"HTML/CSS, React, Ruby, Python"
+569,Job Seeker 569,"Adaptability, Ruby, Machine Learning, React, Java"
+570,Job Seeker 570,
+571,Job Seeker 571,
+572,Job Seeker 572,"Machine Learning, Communication, Ruby, Java"
+573,Job Seeker 573,"SQL, Adaptability"
+574,Job Seeker 574,"Adaptability, Cloud Computing, Ruby, JavaScript"
+575,Job Seeker 575,Machine Learning
+576,Job Seeker 576,"Teamwork, Communication, Python, Machine Learning"
+577,Job Seeker 577,"Communication, HTML/CSS, Cloud Computing"
+578,Job Seeker 578,"Ruby, Cloud Computing, HTML/CSS, Java, React"
+579,Job Seeker 579,"Adaptability, Python, Machine Learning, Teamwork, React"
+580,Job Seeker 580,"Machine Learning, Java, Teamwork, Adaptability, Ruby"
+581,Job Seeker 581,
+582,Job Seeker 582,"Problem Solving, Cloud Computing, Teamwork, Adaptability"
+583,Job Seeker 583,
+584,Job Seeker 584,"Ruby, React, Python, Machine Learning, Communication"
+585,Job Seeker 585,"Node.js, Python"
+586,Job Seeker 586,"Ruby, Cloud Computing, SQL, Communication, HTML/CSS"
+587,Job Seeker 587,"Teamwork, Problem Solving, Adaptability, Cloud Computing"
+588,Job Seeker 588,"Adaptability, Node.js, HTML/CSS"
+589,Job Seeker 589,"Machine Learning, Ruby, Java, Teamwork"
+590,Job Seeker 590,"HTML/CSS, Teamwork, Node.js, Cloud Computing, React"
+591,Job Seeker 591,"Machine Learning, Teamwork, SQL"
+592,Job Seeker 592,"Ruby, JavaScript"
+593,Job Seeker 593,"Cloud Computing, Node.js, SQL"
+594,Job Seeker 594,
+595,Job Seeker 595,"Problem Solving, Cloud Computing, Python"
+596,Job Seeker 596,"Problem Solving, JavaScript"
+597,Job Seeker 597,"Teamwork, Ruby, Adaptability, HTML/CSS"
+598,Job Seeker 598,"React, JavaScript, Communication"
+599,Job Seeker 599,"SQL, JavaScript, Java, Node.js, Python"
+600,Job Seeker 600,Node.js
+601,Job Seeker 601,"Teamwork, React, Java"
+602,Job Seeker 602,"Machine Learning, JavaScript, Problem Solving, Communication"
+603,Job Seeker 603,"React, SQL"
+604,Job Seeker 604,"HTML/CSS, Problem Solving, React"
+605,Job Seeker 605,"Machine Learning, JavaScript, Ruby, Python, Problem Solving"
+606,Job Seeker 606,"React, Node.js"
+607,Job Seeker 607,"Java, SQL, Node.js, HTML/CSS, JavaScript"
+608,Job Seeker 608,"Teamwork, Java"
+609,Job Seeker 609,"Java, Communication, Ruby, Machine Learning"
+610,Job Seeker 610,
+611,Job Seeker 611,
+612,Job Seeker 612,"Python, Machine Learning, Communication"
+613,Job Seeker 613,Node.js
+614,Job Seeker 614,"Cloud Computing, Ruby, Teamwork"
+615,Job Seeker 615,"Ruby, Node.js"
+616,Job Seeker 616,"JavaScript, HTML/CSS, Problem Solving, Cloud Computing, SQL"
+617,Job Seeker 617,Adaptability
+618,Job Seeker 618,"Machine Learning, Java, Python, React"
+619,Job Seeker 619,"HTML/CSS, Machine Learning, Python, Teamwork"
+620,Job Seeker 620,"Machine Learning, Java, SQL"
+621,Job Seeker 621,
+622,Job Seeker 622,"Python, Java, HTML/CSS"
+623,Job Seeker 623,"JavaScript, Problem Solving"
+624,Job Seeker 624,
+625,Job Seeker 625,Ruby
+626,Job Seeker 626,"Python, Adaptability, HTML/CSS, Machine Learning, Teamwork"
+627,Job Seeker 627,"Teamwork, React, Machine Learning"
+628,Job Seeker 628,"Teamwork, Machine Learning, HTML/CSS, React"
+629,Job Seeker 629,"Communication, Teamwork"
+630,Job Seeker 630,"Problem Solving, Machine Learning"
+631,Job Seeker 631,"Ruby, React"
+632,Job Seeker 632,"React, Teamwork, Node.js, Python"
+633,Job Seeker 633,React
+634,Job Seeker 634,"Java, Communication, Ruby, Python"
+635,Job Seeker 635,"React, Problem Solving, Ruby, Node.js, Teamwork"
+636,Job Seeker 636,
+637,Job Seeker 637,React
+638,Job Seeker 638,"Node.js, Adaptability, SQL, Ruby, HTML/CSS"
+639,Job Seeker 639,Problem Solving
+640,Job Seeker 640,Node.js
+641,Job Seeker 641,Cloud Computing
+642,Job Seeker 642,"Machine Learning, HTML/CSS"
+643,Job Seeker 643,"Adaptability, Cloud Computing, React, Node.js, Communication"
+644,Job Seeker 644,"SQL, Communication, Node.js, Adaptability"
+645,Job Seeker 645,"Ruby, Java, Communication, Teamwork"
+646,Job Seeker 646,
+647,Job Seeker 647,"Problem Solving, Java, Cloud Computing, Machine Learning, SQL"
+648,Job Seeker 648,"SQL, Python"
+649,Job Seeker 649,"Teamwork, SQL, Java, Machine Learning"
+650,Job Seeker 650,"SQL, Communication, React"
+651,Job Seeker 651,"HTML/CSS, Communication, JavaScript"
+652,Job Seeker 652,"Ruby, Communication, React"
+653,Job Seeker 653,"Python, Problem Solving, Java"
+654,Job Seeker 654,"Adaptability, React, Java"
+655,Job Seeker 655,"Ruby, SQL, React, Problem Solving"
+656,Job Seeker 656,Problem Solving
+657,Job Seeker 657,"HTML/CSS, Cloud Computing, Adaptability, Problem Solving"
+658,Job Seeker 658,"Node.js, Python, Machine Learning"
+659,Job Seeker 659,"JavaScript, HTML/CSS"
+660,Job Seeker 660,"SQL, Problem Solving, Adaptability, Communication, Java"
+661,Job Seeker 661,"Ruby, Node.js, Java"
+662,Job Seeker 662,Teamwork
+663,Job Seeker 663,
+664,Job Seeker 664,
+665,Job Seeker 665,"JavaScript, Teamwork, Problem Solving, Communication, Ruby"
+666,Job Seeker 666,"Communication, Ruby"
+667,Job Seeker 667,"Cloud Computing, Python, Ruby, React, HTML/CSS"
+668,Job Seeker 668,"Ruby, HTML/CSS"
+669,Job Seeker 669,"Java, Cloud Computing"
+670,Job Seeker 670,"SQL, Node.js, Cloud Computing"
+671,Job Seeker 671,"HTML/CSS, JavaScript, Machine Learning, Communication, Node.js"
+672,Job Seeker 672,
+673,Job Seeker 673,"Machine Learning, Cloud Computing, JavaScript, Ruby, Python"
+674,Job Seeker 674,"Java, Node.js, Python, JavaScript"
+675,Job Seeker 675,
+676,Job Seeker 676,
+677,Job Seeker 677,"Node.js, Ruby, HTML/CSS, Java, Adaptability"
+678,Job Seeker 678,Adaptability
+679,Job Seeker 679,"SQL, Adaptability, Machine Learning, HTML/CSS, Cloud Computing"
+680,Job Seeker 680,"Machine Learning, SQL, JavaScript, HTML/CSS"
+681,Job Seeker 681,"Adaptability, Cloud Computing"
+682,Job Seeker 682,"Python, SQL"
+683,Job Seeker 683,
+684,Job Seeker 684,"Python, React"
+685,Job Seeker 685,
+686,Job Seeker 686,Java
+687,Job Seeker 687,"React, Cloud Computing, Adaptability, Node.js, Python"
+688,Job Seeker 688,"Communication, Ruby, Adaptability"
+689,Job Seeker 689,"Problem Solving, JavaScript, Python, SQL"
+690,Job Seeker 690,"Adaptability, React, Python, Node.js"
+691,Job Seeker 691,"Java, Adaptability, Machine Learning, Teamwork"
+692,Job Seeker 692,"Java, React, Teamwork"
+693,Job Seeker 693,"Python, Communication, Teamwork, HTML/CSS"
+694,Job Seeker 694,Cloud Computing
+695,Job Seeker 695,"Machine Learning, SQL, Ruby"
+696,Job Seeker 696,"HTML/CSS, Node.js, Cloud Computing"
+697,Job Seeker 697,"Node.js, Python, Adaptability"
+698,Job Seeker 698,"Python, Machine Learning"
+699,Job Seeker 699,"Problem Solving, Java"
+700,Job Seeker 700,"Problem Solving, Java, HTML/CSS"
+701,Job Seeker 701,"SQL, Communication, Ruby"
+702,Job Seeker 702,"React, Adaptability, SQL"
+703,Job Seeker 703,Communication
+704,Job Seeker 704,"Node.js, Java, Adaptability, HTML/CSS"
+705,Job Seeker 705,"Node.js, SQL, Java, Communication, React"
+706,Job Seeker 706,"Ruby, React, Communication, JavaScript"
+707,Job Seeker 707,"Java, Teamwork, Problem Solving"
+708,Job Seeker 708,Java
+709,Job Seeker 709,"Adaptability, Communication, Ruby, Machine Learning, JavaScript"
+710,Job Seeker 710,"SQL, Machine Learning, Communication, Node.js"
+711,Job Seeker 711,"Node.js, Problem Solving, Ruby, JavaScript"
+712,Job Seeker 712,"Cloud Computing, Machine Learning"
+713,Job Seeker 713,"Problem Solving, HTML/CSS, Java, React"
+714,Job Seeker 714,"Communication, Java, Problem Solving, Machine Learning, SQL"
+715,Job Seeker 715,Problem Solving
+716,Job Seeker 716,"Problem Solving, React, HTML/CSS, Machine Learning"
+717,Job Seeker 717,"Adaptability, React"
+718,Job Seeker 718,"Adaptability, Java, Communication, Teamwork, SQL"
+719,Job Seeker 719,"Ruby, Problem Solving"
+720,Job Seeker 720,Java
+721,Job Seeker 721,HTML/CSS
+722,Job Seeker 722,Node.js
+723,Job Seeker 723,Node.js
+724,Job Seeker 724,
+725,Job Seeker 725,"Cloud Computing, React"
+726,Job Seeker 726,
+727,Job Seeker 727,Java
+728,Job Seeker 728,"Problem Solving, Adaptability, Cloud Computing, Ruby"
+729,Job Seeker 729,Ruby
+730,Job Seeker 730,"Java, Problem Solving"
+731,Job Seeker 731,"JavaScript, Problem Solving, SQL, Adaptability, Communication"
+732,Job Seeker 732,"React, HTML/CSS, Adaptability, Java, Ruby"
+733,Job Seeker 733,"Teamwork, Cloud Computing, Java, Adaptability"
+734,Job Seeker 734,"Node.js, Teamwork, Adaptability, Machine Learning, SQL"
+735,Job Seeker 735,"Communication, Python"
+736,Job Seeker 736,"Java, Node.js, Python, HTML/CSS"
+737,Job Seeker 737,
+738,Job Seeker 738,"Problem Solving, React, JavaScript, Cloud Computing, HTML/CSS"
+739,Job Seeker 739,"Teamwork, Communication"
+740,Job Seeker 740,"HTML/CSS, Adaptability, Ruby"
+741,Job Seeker 741,"Ruby, Adaptability"
+742,Job Seeker 742,"Communication, Cloud Computing"
+743,Job Seeker 743,"Node.js, Python, JavaScript, Communication, React"
+744,Job Seeker 744,"Ruby, JavaScript, Machine Learning, Cloud Computing"
+745,Job Seeker 745,"Machine Learning, SQL"
+746,Job Seeker 746,"Ruby, Adaptability, JavaScript, Teamwork"
+747,Job Seeker 747,
+748,Job Seeker 748,"Cloud Computing, HTML/CSS, Communication, Java, Node.js"
+749,Job Seeker 749,"HTML/CSS, Cloud Computing, Adaptability"
+750,Job Seeker 750,"SQL, Teamwork, Problem Solving"
+751,Job Seeker 751,SQL
+752,Job Seeker 752,"Machine Learning, Cloud Computing, Adaptability"
+753,Job Seeker 753,"Java, Ruby, React"
+754,Job Seeker 754,"React, Node.js, Teamwork, JavaScript, Cloud Computing"
+755,Job Seeker 755,"Adaptability, React, Machine Learning"
+756,Job Seeker 756,Node.js
+757,Job Seeker 757,"Java, JavaScript, React"
+758,Job Seeker 758,"Problem Solving, React, Python, JavaScript, Communication"
+759,Job Seeker 759,"Problem Solving, Adaptability, SQL, JavaScript"
+760,Job Seeker 760,SQL
+761,Job Seeker 761,"Python, Java, Node.js, Ruby, Communication"
+762,Job Seeker 762,"Adaptability, Cloud Computing"
+763,Job Seeker 763,"Teamwork, Cloud Computing"
+764,Job Seeker 764,
+765,Job Seeker 765,"JavaScript, Cloud Computing"
+766,Job Seeker 766,
+767,Job Seeker 767,Problem Solving
+768,Job Seeker 768,"Adaptability, Communication"
+769,Job Seeker 769,"Node.js, Adaptability, Cloud Computing"
+770,Job Seeker 770,"HTML/CSS, Node.js"
+771,Job Seeker 771,"SQL, Java"
+772,Job Seeker 772,"Cloud Computing, Java"
+773,Job Seeker 773,"JavaScript, React"
+774,Job Seeker 774,"Cloud Computing, Node.js, Teamwork, Python"
+775,Job Seeker 775,"SQL, JavaScript, Communication, Teamwork"
+776,Job Seeker 776,"Teamwork, React, Problem Solving, SQL"
+777,Job Seeker 777,
+778,Job Seeker 778,"HTML/CSS, Problem Solving"
+779,Job Seeker 779,"JavaScript, Problem Solving, Adaptability, React"
+780,Job Seeker 780,"Node.js, Problem Solving, JavaScript"
+781,Job Seeker 781,"JavaScript, HTML/CSS, Cloud Computing, SQL, Java"
+782,Job Seeker 782,"Ruby, Machine Learning, React"
+783,Job Seeker 783,"Communication, SQL, Problem Solving, Adaptability"
+784,Job Seeker 784,"JavaScript, Communication, React"
+785,Job Seeker 785,"SQL, JavaScript, Problem Solving, Teamwork, Ruby"
+786,Job Seeker 786,"Ruby, React, Java, JavaScript"
+787,Job Seeker 787,
+788,Job Seeker 788,"SQL, Teamwork, Machine Learning, Java, HTML/CSS"
+789,Job Seeker 789,"Cloud Computing, Communication, Adaptability, Teamwork, Ruby"
+790,Job Seeker 790,Node.js
+791,Job Seeker 791,
+792,Job Seeker 792,"Python, JavaScript, Cloud Computing"
+793,Job Seeker 793,"React, Python, Communication, Adaptability"
+794,Job Seeker 794,"Python, Node.js, Teamwork"
+795,Job Seeker 795,SQL
+796,Job Seeker 796,
+797,Job Seeker 797,"React, Machine Learning, SQL, Node.js, Problem Solving"
+798,Job Seeker 798,Cloud Computing
+799,Job Seeker 799,"Python, Teamwork, HTML/CSS"
+800,Job Seeker 800,"Node.js, SQL, Machine Learning"
+801,Job Seeker 801,JavaScript
+802,Job Seeker 802,"Python, SQL, Teamwork, HTML/CSS, React"
+803,Job Seeker 803,"Machine Learning, Java, JavaScript, Communication, Node.js"
+804,Job Seeker 804,"React, Adaptability, Problem Solving"
+805,Job Seeker 805,"JavaScript, Teamwork, Communication, Adaptability"
+806,Job Seeker 806,
+807,Job Seeker 807,HTML/CSS
+808,Job Seeker 808,"Ruby, Problem Solving, Machine Learning"
+809,Job Seeker 809,Communication
+810,Job Seeker 810,
+811,Job Seeker 811,Teamwork
+812,Job Seeker 812,"Python, SQL, Communication, Problem Solving"
+813,Job Seeker 813,"Java, Node.js"
+814,Job Seeker 814,"Adaptability, Cloud Computing, SQL, Ruby, Communication"
+815,Job Seeker 815,"Machine Learning, Adaptability, Communication"
+816,Job Seeker 816,"JavaScript, Node.js, Ruby, Communication"
+817,Job Seeker 817,"Communication, Machine Learning, JavaScript, Ruby"
+818,Job Seeker 818,Java
+819,Job Seeker 819,"Adaptability, Communication"
+820,Job Seeker 820,"Teamwork, React, Java, Ruby"
+821,Job Seeker 821,
+822,Job Seeker 822,"Cloud Computing, React, Machine Learning, Problem Solving, Ruby"
+823,Job Seeker 823,"Communication, SQL, Python, Problem Solving"
+824,Job Seeker 824,
+825,Job Seeker 825,"Problem Solving, HTML/CSS, Adaptability, Communication"
+826,Job Seeker 826,Machine Learning
+827,Job Seeker 827,"HTML/CSS, SQL, Adaptability"
+828,Job Seeker 828,Machine Learning
+829,Job Seeker 829,"Adaptability, Problem Solving, JavaScript"
+830,Job Seeker 830,Node.js
+831,Job Seeker 831,"Node.js, Cloud Computing, HTML/CSS"
+832,Job Seeker 832,"Machine Learning, Java, Communication"
+833,Job Seeker 833,
+834,Job Seeker 834,"Adaptability, SQL, Python, Node.js, Teamwork"
+835,Job Seeker 835,Machine Learning
+836,Job Seeker 836,"Java, SQL"
+837,Job Seeker 837,Communication
+838,Job Seeker 838,"Problem Solving, HTML/CSS, Adaptability, Communication"
+839,Job Seeker 839,"Machine Learning, Communication, SQL"
+840,Job Seeker 840,"Problem Solving, Python, Node.js"
+841,Job Seeker 841,"SQL, Communication, Machine Learning"
+842,Job Seeker 842,"Adaptability, Java, Problem Solving, Cloud Computing, HTML/CSS"
+843,Job Seeker 843,"SQL, React, Node.js, Machine Learning, Teamwork"
+844,Job Seeker 844,"Adaptability, SQL"
+845,Job Seeker 845,"Communication, Python, Java"
+846,Job Seeker 846,"Ruby, Cloud Computing, SQL"
+847,Job Seeker 847,Node.js
+848,Job Seeker 848,"Communication, Teamwork, JavaScript, SQL, Adaptability"
+849,Job Seeker 849,
+850,Job Seeker 850,"Adaptability, Teamwork, JavaScript"
+851,Job Seeker 851,SQL
+852,Job Seeker 852,"React, Node.js, SQL, Machine Learning, Communication"
+853,Job Seeker 853,"React, Ruby, Java"
+854,Job Seeker 854,"JavaScript, SQL, Teamwork, Java"
+855,Job Seeker 855,"Communication, JavaScript, HTML/CSS, Problem Solving"
+856,Job Seeker 856,"Ruby, Teamwork, HTML/CSS"
+857,Job Seeker 857,Teamwork
+858,Job Seeker 858,Cloud Computing
+859,Job Seeker 859,"Teamwork, Communication"
+860,Job Seeker 860,"SQL, HTML/CSS"
+861,Job Seeker 861,"Node.js, Teamwork, Communication, SQL"
+862,Job Seeker 862,"JavaScript, Adaptability, React, SQL, Node.js"
+863,Job Seeker 863,"Adaptability, Problem Solving"
+864,Job Seeker 864,"Java, JavaScript"
+865,Job Seeker 865,"SQL, Machine Learning"
+866,Job Seeker 866,"Adaptability, React, HTML/CSS, Node.js, Java"
+867,Job Seeker 867,"Adaptability, Machine Learning"
+868,Job Seeker 868,
+869,Job Seeker 869,"HTML/CSS, Ruby"
+870,Job Seeker 870,Cloud Computing
+871,Job Seeker 871,"Machine Learning, Python"
+872,Job Seeker 872,JavaScript
+873,Job Seeker 873,"Adaptability, SQL, Python, Communication"
+874,Job Seeker 874,"JavaScript, Cloud Computing, Communication, Adaptability, Java"
+875,Job Seeker 875,"Python, JavaScript"
+876,Job Seeker 876,
+877,Job Seeker 877,"Node.js, JavaScript"
+878,Job Seeker 878,"Java, Python, Machine Learning, JavaScript"
+879,Job Seeker 879,"HTML/CSS, JavaScript, Python, Adaptability"
+880,Job Seeker 880,"React, Python"
+881,Job Seeker 881,"Ruby, Machine Learning, JavaScript"
+882,Job Seeker 882,"React, Cloud Computing, JavaScript, Machine Learning"
+883,Job Seeker 883,"SQL, Teamwork"
+884,Job Seeker 884,"Ruby, HTML/CSS, Adaptability"
+885,Job Seeker 885,"SQL, Problem Solving, Adaptability, Python, React"
+886,Job Seeker 886,"Java, Python, React, Cloud Computing"
+887,Job Seeker 887,"Python, Adaptability, Cloud Computing"
+888,Job Seeker 888,Teamwork
+889,Job Seeker 889,"Communication, Teamwork, Machine Learning"
+890,Job Seeker 890,Problem Solving
+891,Job Seeker 891,Teamwork
+892,Job Seeker 892,
+893,Job Seeker 893,Communication
+894,Job Seeker 894,Java
+895,Job Seeker 895,Machine Learning
+896,Job Seeker 896,"Cloud Computing, Ruby, HTML/CSS, Teamwork"
+897,Job Seeker 897,"React, JavaScript"
+898,Job Seeker 898,"Communication, Problem Solving, HTML/CSS"
+899,Job Seeker 899,Teamwork
+900,Job Seeker 900,"React, Communication"
+901,Job Seeker 901,Cloud Computing
+902,Job Seeker 902,"Python, Node.js, Problem Solving"
+903,Job Seeker 903,Adaptability
+904,Job Seeker 904,"Teamwork, Python, Ruby, SQL, Cloud Computing"
+905,Job Seeker 905,"Teamwork, Cloud Computing, Python"
+906,Job Seeker 906,"Problem Solving, Teamwork, Machine Learning, Node.js, React"
+907,Job Seeker 907,"Problem Solving, Node.js, SQL, React"
+908,Job Seeker 908,React
+909,Job Seeker 909,"Communication, Adaptability, Problem Solving, React"
+910,Job Seeker 910,"Node.js, Java, React, JavaScript, Adaptability"
+911,Job Seeker 911,"Machine Learning, Cloud Computing, Adaptability, SQL"
+912,Job Seeker 912,"Ruby, HTML/CSS, Cloud Computing"
+913,Job Seeker 913,"Problem Solving, SQL, Teamwork"
+914,Job Seeker 914,"Teamwork, Communication, Python, Cloud Computing"
+915,Job Seeker 915,"Machine Learning, Ruby, Cloud Computing"
+916,Job Seeker 916,
+917,Job Seeker 917,"Machine Learning, JavaScript, Teamwork"
+918,Job Seeker 918,"HTML/CSS, SQL, Problem Solving, Cloud Computing"
+919,Job Seeker 919,"React, Node.js, Communication, JavaScript, Java"
+920,Job Seeker 920,"Node.js, Teamwork, Adaptability, Communication, Cloud Computing"
+921,Job Seeker 921,"JavaScript, Ruby, Cloud Computing"
+922,Job Seeker 922,"JavaScript, Problem Solving, SQL, Ruby"
+923,Job Seeker 923,"Adaptability, Node.js, React, Cloud Computing"
+924,Job Seeker 924,"Adaptability, Machine Learning"
+925,Job Seeker 925,
+926,Job Seeker 926,"Problem Solving, Java, Ruby"
+927,Job Seeker 927,"Communication, Problem Solving, Cloud Computing, Python, Machine Learning"
+928,Job Seeker 928,"Problem Solving, Adaptability, React, Teamwork"
+929,Job Seeker 929,
+930,Job Seeker 930,"Teamwork, Communication, Python, Problem Solving, Machine Learning"
+931,Job Seeker 931,Problem Solving
+932,Job Seeker 932,"Adaptability, HTML/CSS, Ruby, React, Cloud Computing"
+933,Job Seeker 933,"Cloud Computing, Ruby, Teamwork, Communication, Adaptability"
+934,Job Seeker 934,"Machine Learning, Node.js, HTML/CSS, Java, SQL"
+935,Job Seeker 935,"Ruby, React"
+936,Job Seeker 936,"Java, SQL, Ruby, Communication, Python"
+937,Job Seeker 937,Teamwork
+938,Job Seeker 938,Problem Solving
+939,Job Seeker 939,
+940,Job Seeker 940,Communication
+941,Job Seeker 941,"SQL, React, HTML/CSS, Node.js"
+942,Job Seeker 942,"Problem Solving, JavaScript, Machine Learning, Cloud Computing"
+943,Job Seeker 943,Python
+944,Job Seeker 944,"React, Communication, HTML/CSS, SQL"
+945,Job Seeker 945,"Ruby, Teamwork"
+946,Job Seeker 946,"Java, HTML/CSS"
+947,Job Seeker 947,"JavaScript, Machine Learning, Node.js, Cloud Computing"
+948,Job Seeker 948,"SQL, Python, Teamwork, Adaptability"
+949,Job Seeker 949,"Ruby, Node.js, Communication"
+950,Job Seeker 950,"SQL, Machine Learning, JavaScript, Ruby"
+951,Job Seeker 951,"Ruby, Problem Solving, Cloud Computing"
+952,Job Seeker 952,"Cloud Computing, Node.js, Problem Solving, Communication"
+953,Job Seeker 953,"Python, SQL, JavaScript, Communication"
+954,Job Seeker 954,"JavaScript, Communication"
+955,Job Seeker 955,HTML/CSS
+956,Job Seeker 956,
+957,Job Seeker 957,
+958,Job Seeker 958,"Python, Machine Learning, SQL"
+959,Job Seeker 959,"SQL, Adaptability, Python, Node.js"
+960,Job Seeker 960,HTML/CSS
+961,Job Seeker 961,Machine Learning
+962,Job Seeker 962,"SQL, Machine Learning, Problem Solving, Communication, Ruby"
+963,Job Seeker 963,
+964,Job Seeker 964,"Machine Learning, Teamwork, Java"
+965,Job Seeker 965,"Python, Teamwork, HTML/CSS, Communication"
+966,Job Seeker 966,"Cloud Computing, Teamwork, Ruby, HTML/CSS, Communication"
+967,Job Seeker 967,"JavaScript, Adaptability, Ruby, Java"
+968,Job Seeker 968,Teamwork
+969,Job Seeker 969,
+970,Job Seeker 970,"Problem Solving, Cloud Computing, Adaptability, SQL, Java"
+971,Job Seeker 971,
+972,Job Seeker 972,"Problem Solving, Communication, Java"
+973,Job Seeker 973,"HTML/CSS, Python"
+974,Job Seeker 974,"Node.js, HTML/CSS, Problem Solving, Teamwork"
+975,Job Seeker 975,"Cloud Computing, Problem Solving"
+976,Job Seeker 976,Problem Solving
+977,Job Seeker 977,
+978,Job Seeker 978,"JavaScript, React, Communication, Adaptability"
+979,Job Seeker 979,"Teamwork, JavaScript"
+980,Job Seeker 980,"JavaScript, Communication, Ruby, Machine Learning, SQL"
+981,Job Seeker 981,
+982,Job Seeker 982,HTML/CSS
+983,Job Seeker 983,"Communication, SQL, Problem Solving"
+984,Job Seeker 984,"JavaScript, Ruby"
+985,Job Seeker 985,Python
+986,Job Seeker 986,Python
+987,Job Seeker 987,"Java, Problem Solving"
+988,Job Seeker 988,
+989,Job Seeker 989,"Communication, Cloud Computing"
+990,Job Seeker 990,"Machine Learning, Node.js"
+991,Job Seeker 991,"Communication, Teamwork"
+992,Job Seeker 992,"Problem Solving, Python, Cloud Computing"
+993,Job Seeker 993,"React, Teamwork"
+994,Job Seeker 994,
+995,Job Seeker 995,"HTML/CSS, Teamwork, JavaScript, Machine Learning"
+996,Job Seeker 996,Problem Solving
+997,Job Seeker 997,Python
+998,Job Seeker 998,
+999,Job Seeker 999,
+1000,Job Seeker 1000,"SQL, Communication"

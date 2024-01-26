@@ -1,0 +1,501 @@
+id,title,required_skills
+1,Job 1,"Java, HTML/CSS"
+2,Job 2,"Communication, Adaptability"
+3,Job 3,"JavaScript, Java, Node.js, Machine Learning"
+4,Job 4,"Problem Solving, SQL, Ruby"
+5,Job 5,"Machine Learning, JavaScript, Communication"
+6,Job 6,JavaScript
+7,Job 7,"Communication, Machine Learning, Teamwork"
+8,Job 8,
+9,Job 9,"SQL, Machine Learning, Cloud Computing"
+10,Job 10,"Node.js, JavaScript"
+11,Job 11,"Teamwork, Java, React, Problem Solving"
+12,Job 12,"JavaScript, Cloud Computing, Communication, SQL, Ruby"
+13,Job 13,"Problem Solving, Machine Learning"
+14,Job 14,"Machine Learning, SQL, Java, Python"
+15,Job 15,
+16,Job 16,"Java, Ruby, Problem Solving, HTML/CSS, Cloud Computing"
+17,Job 17,"Teamwork, Node.js, Machine Learning"
+18,Job 18,
+19,Job 19,
+20,Job 20,"Cloud Computing, Adaptability, SQL, HTML/CSS, Teamwork"
+21,Job 21,Python
+22,Job 22,"Adaptability, React, SQL, Cloud Computing, Machine Learning"
+23,Job 23,"Communication, Python, Teamwork, JavaScript, Adaptability"
+24,Job 24,"React, JavaScript, Machine Learning, Problem Solving, SQL"
+25,Job 25,"Teamwork, Java, HTML/CSS, Python"
+26,Job 26,
+27,Job 27,"Ruby, SQL"
+28,Job 28,"Python, SQL, Cloud Computing"
+29,Job 29,
+30,Job 30,"HTML/CSS, Node.js, SQL"
+31,Job 31,"Cloud Computing, JavaScript, SQL, Ruby, Problem Solving"
+32,Job 32,"Cloud Computing, HTML/CSS, JavaScript, Communication"
+33,Job 33,"Ruby, Machine Learning"
+34,Job 34,"Java, Python, Adaptability, Ruby"
+35,Job 35,"HTML/CSS, Communication"
+36,Job 36,
+37,Job 37,"HTML/CSS, JavaScript, SQL, Machine Learning"
+38,Job 38,"Java, Node.js, Adaptability"
+39,Job 39,"Adaptability, Cloud Computing"
+40,Job 40,Adaptability
+41,Job 41,JavaScript
+42,Job 42,"Python, Java"
+43,Job 43,"React, Python, Adaptability, Ruby"
+44,Job 44,"JavaScript, Machine Learning, Adaptability, SQL, Communication"
+45,Job 45,"JavaScript, Communication, Machine Learning, SQL"
+46,Job 46,"Communication, React, Python, Machine Learning"
+47,Job 47,"Cloud Computing, Ruby, SQL, Communication"
+48,Job 48,Node.js
+49,Job 49,"React, Teamwork, Machine Learning, Communication"
+50,Job 50,Cloud Computing
+51,Job 51,React
+52,Job 52,
+53,Job 53,"HTML/CSS, Communication, Machine Learning, Adaptability"
+54,Job 54,"Python, Adaptability"
+55,Job 55,SQL
+56,Job 56,
+57,Job 57,"Python, Teamwork, Machine Learning, SQL, Node.js"
+58,Job 58,
+59,Job 59,"Ruby, SQL, Machine Learning, Python"
+60,Job 60,"Communication, HTML/CSS"
+61,Job 61,"SQL, Python"
+62,Job 62,"Java, Communication, Cloud Computing, React, Teamwork"
+63,Job 63,"HTML/CSS, Adaptability, Machine Learning, Teamwork, Node.js"
+64,Job 64,"Ruby, JavaScript"
+65,Job 65,"Python, Communication, JavaScript"
+66,Job 66,"Node.js, Teamwork, HTML/CSS, Machine Learning"
+67,Job 67,"SQL, Ruby, Cloud Computing, Problem Solving"
+68,Job 68,"SQL, Python"
+69,Job 69,"HTML/CSS, SQL, Java"
+70,Job 70,"React, JavaScript, Node.js, SQL"
+71,Job 71,"Adaptability, Machine Learning, Cloud Computing, Teamwork, SQL"
+72,Job 72,"Ruby, Communication"
+73,Job 73,"SQL, JavaScript, React"
+74,Job 74,"Java, Node.js, Adaptability, Cloud Computing, Communication"
+75,Job 75,"Problem Solving, SQL, Machine Learning, HTML/CSS, Communication"
+76,Job 76,Machine Learning
+77,Job 77,"Problem Solving, Node.js, Communication, HTML/CSS, Cloud Computing"
+78,Job 78,"JavaScript, Ruby"
+79,Job 79,HTML/CSS
+80,Job 80,"HTML/CSS, Python, Cloud Computing, Node.js, Teamwork"
+81,Job 81,"HTML/CSS, Python, Java, Communication"
+82,Job 82,
+83,Job 83,"Problem Solving, Machine Learning, Communication, Python, JavaScript"
+84,Job 84,"Communication, Machine Learning"
+85,Job 85,"SQL, Cloud Computing, Problem Solving"
+86,Job 86,"React, Cloud Computing, Problem Solving, Python"
+87,Job 87,Machine Learning
+88,Job 88,"React, Node.js"
+89,Job 89,"Python, React"
+90,Job 90,Ruby
+91,Job 91,
+92,Job 92,HTML/CSS
+93,Job 93,"Teamwork, SQL, Problem Solving"
+94,Job 94,
+95,Job 95,"Java, Node.js, Problem Solving, Adaptability"
+96,Job 96,
+97,Job 97,"Problem Solving, Node.js"
+98,Job 98,"Adaptability, Ruby, Java, Problem Solving, Node.js"
+99,Job 99,"Node.js, Communication, SQL, Machine Learning, Java"
+100,Job 100,"Problem Solving, Teamwork"
+101,Job 101,"Communication, React, HTML/CSS, Java"
+102,Job 102,"Communication, Python, Teamwork, Ruby"
+103,Job 103,
+104,Job 104,Python
+105,Job 105,"Teamwork, React, Machine Learning, Problem Solving"
+106,Job 106,"Adaptability, React, Teamwork"
+107,Job 107,"JavaScript, Node.js, Java"
+108,Job 108,"Communication, JavaScript"
+109,Job 109,"Communication, SQL, React"
+110,Job 110,Python
+111,Job 111,"Adaptability, HTML/CSS"
+112,Job 112,"Ruby, HTML/CSS, React, Python, Java"
+113,Job 113,Ruby
+114,Job 114,"Problem Solving, HTML/CSS"
+115,Job 115,"Python, HTML/CSS, React, JavaScript, Teamwork"
+116,Job 116,Ruby
+117,Job 117,Ruby
+118,Job 118,
+119,Job 119,"Cloud Computing, JavaScript"
+120,Job 120,SQL
+121,Job 121,"Cloud Computing, JavaScript, Java, SQL"
+122,Job 122,"Problem Solving, SQL, Cloud Computing"
+123,Job 123,"Python, Communication, Cloud Computing"
+124,Job 124,"Problem Solving, Java"
+125,Job 125,
+126,Job 126,"Teamwork, React, Problem Solving, Python"
+127,Job 127,
+128,Job 128,"JavaScript, Java, Ruby"
+129,Job 129,JavaScript
+130,Job 130,SQL
+131,Job 131,"Node.js, Problem Solving, Teamwork, Communication, Cloud Computing"
+132,Job 132,Problem Solving
+133,Job 133,React
+134,Job 134,"JavaScript, Teamwork"
+135,Job 135,Teamwork
+136,Job 136,Machine Learning
+137,Job 137,"Problem Solving, HTML/CSS, Communication"
+138,Job 138,HTML/CSS
+139,Job 139,"Communication, Problem Solving, Cloud Computing, JavaScript"
+140,Job 140,"Java, Ruby"
+141,Job 141,"Adaptability, Node.js, React"
+142,Job 142,"Cloud Computing, Python, SQL, Ruby"
+143,Job 143,"HTML/CSS, Python, Java, Node.js, React"
+144,Job 144,"Node.js, JavaScript, React, Machine Learning, Java"
+145,Job 145,
+146,Job 146,HTML/CSS
+147,Job 147,
+148,Job 148,"Cloud Computing, JavaScript, Python"
+149,Job 149,"Java, HTML/CSS"
+150,Job 150,"SQL, Python, Teamwork, Machine Learning, Node.js"
+151,Job 151,"Ruby, Problem Solving"
+152,Job 152,"Machine Learning, Teamwork, Adaptability, Communication, JavaScript"
+153,Job 153,"React, Teamwork, Machine Learning, SQL, Node.js"
+154,Job 154,"JavaScript, Python, Java"
+155,Job 155,Machine Learning
+156,Job 156,SQL
+157,Job 157,"Node.js, SQL, Cloud Computing"
+158,Job 158,
+159,Job 159,"Node.js, HTML/CSS, Problem Solving, JavaScript, React"
+160,Job 160,"Node.js, Machine Learning, React, Java, SQL"
+161,Job 161,"Java, React"
+162,Job 162,"Problem Solving, Java"
+163,Job 163,"Java, Problem Solving, Adaptability, Cloud Computing, Teamwork"
+164,Job 164,"React, Communication, Node.js, Adaptability"
+165,Job 165,Ruby
+166,Job 166,"HTML/CSS, Problem Solving, Communication, Ruby, Java"
+167,Job 167,Node.js
+168,Job 168,"Java, Communication, React, Machine Learning, Cloud Computing"
+169,Job 169,"Java, Teamwork"
+170,Job 170,
+171,Job 171,
+172,Job 172,"Adaptability, Teamwork, Ruby, Communication"
+173,Job 173,"Cloud Computing, Python, Machine Learning, Java"
+174,Job 174,
+175,Job 175,"Problem Solving, Communication, Cloud Computing, HTML/CSS"
+176,Job 176,HTML/CSS
+177,Job 177,"Ruby, Adaptability, Node.js, SQL"
+178,Job 178,React
+179,Job 179,"Python, Communication, Ruby"
+180,Job 180,
+181,Job 181,"Machine Learning, React"
+182,Job 182,Teamwork
+183,Job 183,"Adaptability, Ruby, Python"
+184,Job 184,"Communication, Problem Solving, HTML/CSS, Cloud Computing"
+185,Job 185,
+186,Job 186,"Ruby, SQL, Teamwork"
+187,Job 187,Ruby
+188,Job 188,"Problem Solving, Python, Cloud Computing, Java"
+189,Job 189,"SQL, Java"
+190,Job 190,Teamwork
+191,Job 191,Java
+192,Job 192,"Teamwork, HTML/CSS, Java, JavaScript"
+193,Job 193,"Java, SQL, Problem Solving"
+194,Job 194,"HTML/CSS, Java, Communication"
+195,Job 195,"JavaScript, Node.js, React, Java, Python"
+196,Job 196,"Teamwork, HTML/CSS, React, JavaScript"
+197,Job 197,Cloud Computing
+198,Job 198,Cloud Computing
+199,Job 199,"Ruby, SQL"
+200,Job 200,"Python, Adaptability, HTML/CSS, Machine Learning, Communication"
+201,Job 201,"Adaptability, Ruby"
+202,Job 202,"HTML/CSS, Node.js, Teamwork"
+203,Job 203,HTML/CSS
+204,Job 204,"Adaptability, HTML/CSS, Teamwork, React"
+205,Job 205,"Teamwork, Cloud Computing"
+206,Job 206,Cloud Computing
+207,Job 207,"Ruby, HTML/CSS"
+208,Job 208,"Python, Java, HTML/CSS, Node.js"
+209,Job 209,"Adaptability, Machine Learning, SQL, Cloud Computing, Node.js"
+210,Job 210,Cloud Computing
+211,Job 211,
+212,Job 212,"React, Communication, Teamwork, Machine Learning"
+213,Job 213,"HTML/CSS, Communication, Ruby, Problem Solving"
+214,Job 214,"Java, Machine Learning"
+215,Job 215,"Teamwork, Python"
+216,Job 216,Teamwork
+217,Job 217,
+218,Job 218,"JavaScript, React, Teamwork, Machine Learning, Java"
+219,Job 219,"Teamwork, HTML/CSS"
+220,Job 220,
+221,Job 221,
+222,Job 222,"Machine Learning, Communication"
+223,Job 223,"React, Node.js, Adaptability, Machine Learning"
+224,Job 224,
+225,Job 225,"Communication, Teamwork"
+226,Job 226,"Node.js, SQL, JavaScript, Ruby"
+227,Job 227,"Cloud Computing, Machine Learning"
+228,Job 228,"Java, React, Node.js, Communication, Cloud Computing"
+229,Job 229,Node.js
+230,Job 230,"JavaScript, Cloud Computing, HTML/CSS, Node.js, React"
+231,Job 231,
+232,Job 232,"Java, Teamwork"
+233,Job 233,Java
+234,Job 234,
+235,Job 235,"Adaptability, Machine Learning"
+236,Job 236,"Adaptability, Node.js, Communication, Cloud Computing, Java"
+237,Job 237,"SQL, Machine Learning, Java, Adaptability, Node.js"
+238,Job 238,"Adaptability, React, Node.js, Cloud Computing"
+239,Job 239,Problem Solving
+240,Job 240,
+241,Job 241,
+242,Job 242,Communication
+243,Job 243,"JavaScript, SQL, Node.js"
+244,Job 244,"Node.js, Java, HTML/CSS"
+245,Job 245,"Node.js, Machine Learning, Java, Python"
+246,Job 246,"HTML/CSS, React, Teamwork"
+247,Job 247,"Ruby, Problem Solving, Java, Machine Learning, Adaptability"
+248,Job 248,"Machine Learning, Adaptability, HTML/CSS, SQL, Ruby"
+249,Job 249,"SQL, Python, Ruby, Teamwork"
+250,Job 250,"JavaScript, Cloud Computing, Communication, Problem Solving, Node.js"
+251,Job 251,HTML/CSS
+252,Job 252,Cloud Computing
+253,Job 253,"React, Problem Solving"
+254,Job 254,Problem Solving
+255,Job 255,"React, Communication, Python, Cloud Computing, SQL"
+256,Job 256,"Teamwork, Node.js"
+257,Job 257,"Python, JavaScript, HTML/CSS, SQL"
+258,Job 258,"Teamwork, Python, Communication, HTML/CSS, Java"
+259,Job 259,
+260,Job 260,"Machine Learning, Adaptability, Ruby, Teamwork"
+261,Job 261,
+262,Job 262,"Cloud Computing, Machine Learning, Adaptability, Teamwork, Ruby"
+263,Job 263,Machine Learning
+264,Job 264,"HTML/CSS, Cloud Computing, SQL, Python, Java"
+265,Job 265,"Communication, Java"
+266,Job 266,"Python, Machine Learning"
+267,Job 267,
+268,Job 268,
+269,Job 269,
+270,Job 270,
+271,Job 271,
+272,Job 272,Teamwork
+273,Job 273,"Problem Solving, Machine Learning, Java, Node.js"
+274,Job 274,"Cloud Computing, Java"
+275,Job 275,Machine Learning
+276,Job 276,"JavaScript, Communication"
+277,Job 277,"Cloud Computing, HTML/CSS"
+278,Job 278,"HTML/CSS, JavaScript"
+279,Job 279,"SQL, JavaScript"
+280,Job 280,"Machine Learning, Node.js, Java, Python, Communication"
+281,Job 281,"SQL, Java, Node.js, Python"
+282,Job 282,"JavaScript, SQL, Cloud Computing, Machine Learning"
+283,Job 283,"Cloud Computing, Python, Java, Communication"
+284,Job 284,"JavaScript, Node.js"
+285,Job 285,"Adaptability, Java"
+286,Job 286,"Python, Cloud Computing, JavaScript, Problem Solving"
+287,Job 287,"HTML/CSS, Ruby, Problem Solving, JavaScript, Python"
+288,Job 288,Java
+289,Job 289,Java
+290,Job 290,"React, Python, Problem Solving, Communication"
+291,Job 291,"Adaptability, SQL"
+292,Job 292,"Problem Solving, HTML/CSS, Cloud Computing"
+293,Job 293,
+294,Job 294,"Node.js, Machine Learning"
+295,Job 295,"Cloud Computing, Python, Java, Problem Solving"
+296,Job 296,
+297,Job 297,"React, Ruby, SQL, Python"
+298,Job 298,"Node.js, Problem Solving"
+299,Job 299,
+300,Job 300,Java
+301,Job 301,"Machine Learning, HTML/CSS"
+302,Job 302,Teamwork
+303,Job 303,
+304,Job 304,"Java, Ruby"
+305,Job 305,
+306,Job 306,"Communication, Node.js"
+307,Job 307,Java
+308,Job 308,
+309,Job 309,Machine Learning
+310,Job 310,"Teamwork, Communication, JavaScript"
+311,Job 311,"Teamwork, JavaScript, React, Ruby, Machine Learning"
+312,Job 312,"Node.js, Java, Adaptability, JavaScript, Cloud Computing"
+313,Job 313,"Teamwork, Python, Node.js"
+314,Job 314,"Python, Problem Solving, SQL"
+315,Job 315,"Ruby, Node.js, HTML/CSS, Machine Learning, Problem Solving"
+316,Job 316,"Cloud Computing, HTML/CSS, Teamwork, Problem Solving"
+317,Job 317,"Problem Solving, Adaptability"
+318,Job 318,"Java, Teamwork, React, Python, Problem Solving"
+319,Job 319,"Communication, HTML/CSS"
+320,Job 320,"Teamwork, Python, Cloud Computing, React"
+321,Job 321,HTML/CSS
+322,Job 322,HTML/CSS
+323,Job 323,"Problem Solving, Adaptability, React, JavaScript, HTML/CSS"
+324,Job 324,"Teamwork, Node.js, React"
+325,Job 325,"Ruby, Java, HTML/CSS"
+326,Job 326,"Problem Solving, Java, Communication, Cloud Computing, HTML/CSS"
+327,Job 327,
+328,Job 328,"Cloud Computing, Java"
+329,Job 329,"JavaScript, Adaptability, React, Communication"
+330,Job 330,"Cloud Computing, Problem Solving, HTML/CSS"
+331,Job 331,"JavaScript, Ruby, React, Cloud Computing, Problem Solving"
+332,Job 332,"Teamwork, Problem Solving, Machine Learning"
+333,Job 333,"HTML/CSS, Machine Learning, Problem Solving"
+334,Job 334,Problem Solving
+335,Job 335,
+336,Job 336,"HTML/CSS, Java, Cloud Computing"
+337,Job 337,"Node.js, Python"
+338,Job 338,SQL
+339,Job 339,"SQL, Communication, Cloud Computing, Adaptability, HTML/CSS"
+340,Job 340,Adaptability
+341,Job 341,
+342,Job 342,
+343,Job 343,JavaScript
+344,Job 344,"JavaScript, SQL"
+345,Job 345,"Python, React"
+346,Job 346,Communication
+347,Job 347,Node.js
+348,Job 348,HTML/CSS
+349,Job 349,"Machine Learning, SQL, HTML/CSS, Communication"
+350,Job 350,"Node.js, SQL"
+351,Job 351,"Problem Solving, Java, Cloud Computing, Node.js"
+352,Job 352,Ruby
+353,Job 353,
+354,Job 354,"Teamwork, Node.js"
+355,Job 355,"Adaptability, React"
+356,Job 356,"Java, React, Cloud Computing, Adaptability"
+357,Job 357,
+358,Job 358,"Java, HTML/CSS"
+359,Job 359,"HTML/CSS, Java, Adaptability, Cloud Computing, JavaScript"
+360,Job 360,"Adaptability, React, Machine Learning"
+361,Job 361,"HTML/CSS, Machine Learning, Cloud Computing"
+362,Job 362,"Java, SQL"
+363,Job 363,"Ruby, SQL"
+364,Job 364,"Problem Solving, Cloud Computing, Teamwork, Python"
+365,Job 365,"Adaptability, HTML/CSS, SQL, Cloud Computing"
+366,Job 366,"Teamwork, Machine Learning, Node.js"
+367,Job 367,"React, JavaScript, Machine Learning, Node.js"
+368,Job 368,
+369,Job 369,"SQL, Problem Solving, React, HTML/CSS"
+370,Job 370,Ruby
+371,Job 371,"Ruby, JavaScript"
+372,Job 372,"Ruby, HTML/CSS"
+373,Job 373,Cloud Computing
+374,Job 374,"Communication, HTML/CSS, SQL"
+375,Job 375,"Teamwork, SQL"
+376,Job 376,
+377,Job 377,"Java, SQL, Cloud Computing, Ruby, Teamwork"
+378,Job 378,React
+379,Job 379,"Node.js, SQL, Machine Learning, Adaptability, HTML/CSS"
+380,Job 380,"Problem Solving, Machine Learning, JavaScript, Node.js"
+381,Job 381,Cloud Computing
+382,Job 382,
+383,Job 383,"Machine Learning, Java, HTML/CSS"
+384,Job 384,Machine Learning
+385,Job 385,Communication
+386,Job 386,"Problem Solving, Adaptability, Node.js, SQL"
+387,Job 387,"Cloud Computing, Problem Solving"
+388,Job 388,"Communication, JavaScript, Machine Learning, Adaptability"
+389,Job 389,"Python, Node.js, Communication, React, Ruby"
+390,Job 390,"Python, Node.js"
+391,Job 391,"HTML/CSS, Problem Solving, JavaScript, Ruby, React"
+392,Job 392,"HTML/CSS, SQL, Python"
+393,Job 393,"Python, Adaptability, Communication"
+394,Job 394,"Adaptability, Java, Node.js"
+395,Job 395,"JavaScript, Teamwork, Machine Learning, Python, Adaptability"
+396,Job 396,Cloud Computing
+397,Job 397,"Communication, Java, SQL, Problem Solving"
+398,Job 398,
+399,Job 399,"Communication, Adaptability, Teamwork, Cloud Computing, Ruby"
+400,Job 400,"Node.js, Ruby, SQL"
+401,Job 401,"Node.js, Teamwork"
+402,Job 402,
+403,Job 403,"Java, Communication, Ruby"
+404,Job 404,"Adaptability, Machine Learning, HTML/CSS, Cloud Computing, React"
+405,Job 405,"Adaptability, Java, HTML/CSS, Python, Problem Solving"
+406,Job 406,"Adaptability, Cloud Computing"
+407,Job 407,"Cloud Computing, SQL, Problem Solving"
+408,Job 408,"Node.js, Python, JavaScript"
+409,Job 409,"Cloud Computing, Node.js, Java, HTML/CSS, Problem Solving"
+410,Job 410,Python
+411,Job 411,Cloud Computing
+412,Job 412,Teamwork
+413,Job 413,React
+414,Job 414,Cloud Computing
+415,Job 415,"Communication, Node.js, Cloud Computing, HTML/CSS"
+416,Job 416,"Adaptability, Cloud Computing, SQL, Ruby"
+417,Job 417,"Java, SQL, Machine Learning"
+418,Job 418,"Java, SQL, Ruby"
+419,Job 419,"Cloud Computing, React"
+420,Job 420,"Python, Cloud Computing, Java, HTML/CSS"
+421,Job 421,Node.js
+422,Job 422,
+423,Job 423,"React, Java, Cloud Computing, Adaptability, SQL"
+424,Job 424,"Cloud Computing, Python, Machine Learning"
+425,Job 425,"Machine Learning, Cloud Computing, Python, Adaptability, Problem Solving"
+426,Job 426,JavaScript
+427,Job 427,"Java, HTML/CSS, Ruby, React, Adaptability"
+428,Job 428,"Teamwork, Machine Learning, HTML/CSS"
+429,Job 429,"Ruby, Communication, Teamwork, Problem Solving"
+430,Job 430,"Adaptability, HTML/CSS, Java"
+431,Job 431,"Ruby, Java, Teamwork"
+432,Job 432,"JavaScript, React, Java"
+433,Job 433,
+434,Job 434,"React, Python"
+435,Job 435,"Teamwork, Python, Communication, Java"
+436,Job 436,"Teamwork, Ruby, Python, Machine Learning, Java"
+437,Job 437,"Problem Solving, React, Communication, HTML/CSS, Ruby"
+438,Job 438,"Java, Problem Solving, Teamwork"
+439,Job 439,"Ruby, HTML/CSS"
+440,Job 440,
+441,Job 441,
+442,Job 442,"Java, SQL, Python, Machine Learning, Node.js"
+443,Job 443,"HTML/CSS, JavaScript, SQL, Cloud Computing, Ruby"
+444,Job 444,
+445,Job 445,
+446,Job 446,"Node.js, Problem Solving"
+447,Job 447,Machine Learning
+448,Job 448,"React, Java, Python, SQL, Node.js"
+449,Job 449,"Teamwork, Problem Solving, Node.js, Communication, Ruby"
+450,Job 450,"Machine Learning, Adaptability"
+451,Job 451,Ruby
+452,Job 452,"Communication, Ruby, React, Adaptability"
+453,Job 453,Problem Solving
+454,Job 454,
+455,Job 455,"Python, Teamwork, JavaScript"
+456,Job 456,Ruby
+457,Job 457,"Teamwork, Node.js"
+458,Job 458,"JavaScript, Problem Solving, Python"
+459,Job 459,SQL
+460,Job 460,
+461,Job 461,"Problem Solving, Java, Adaptability, SQL, Machine Learning"
+462,Job 462,
+463,Job 463,"SQL, JavaScript, Teamwork, Communication, Machine Learning"
+464,Job 464,
+465,Job 465,"React, Java, Communication"
+466,Job 466,
+467,Job 467,
+468,Job 468,"React, Teamwork, Adaptability, Java"
+469,Job 469,"Ruby, Node.js"
+470,Job 470,"Adaptability, HTML/CSS, Java, Problem Solving"
+471,Job 471,"Ruby, JavaScript"
+472,Job 472,"Adaptability, Communication, Ruby"
+473,Job 473,Teamwork
+474,Job 474,HTML/CSS
+475,Job 475,"HTML/CSS, Problem Solving, Ruby, Communication"
+476,Job 476,"Ruby, Communication, Cloud Computing, Python"
+477,Job 477,"Ruby, React, Adaptability"
+478,Job 478,React
+479,Job 479,"Adaptability, HTML/CSS, JavaScript"
+480,Job 480,"Machine Learning, Adaptability, Ruby, React, HTML/CSS"
+481,Job 481,
+482,Job 482,"Node.js, JavaScript"
+483,Job 483,"Problem Solving, Adaptability, Communication, JavaScript, HTML/CSS"
+484,Job 484,
+485,Job 485,"JavaScript, Node.js, Cloud Computing, Communication"
+486,Job 486,"Machine Learning, Cloud Computing, Node.js, SQL"
+487,Job 487,"Java, React"
+488,Job 488,
+489,Job 489,"Ruby, Communication, JavaScript"
+490,Job 490,"HTML/CSS, Cloud Computing, Ruby, Problem Solving"
+491,Job 491,"Machine Learning, Python, Problem Solving"
+492,Job 492,Machine Learning
+493,Job 493,"Node.js, Ruby"
+494,Job 494,"SQL, Teamwork"
+495,Job 495,"Java, Communication, Teamwork"
+496,Job 496,"Machine Learning, HTML/CSS, React, SQL, Teamwork"
+497,Job 497,"Cloud Computing, Problem Solving, Teamwork, React, Python"
+498,Job 498,
+499,Job 499,"Adaptability, Python, Teamwork"
+500,Job 500,"Java, JavaScript"
